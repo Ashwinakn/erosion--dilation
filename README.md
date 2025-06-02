@@ -28,8 +28,8 @@ Dilate the Image:Apply dilation to the original image using the same structuring
 ## Program:
 
 ``` Python
-Developed by : AMALJOSH MAADHAV J
-Register Number : 212223230012
+Developed by : Ashwina K N
+Register Number : 212223230025
 ```
 # Import the necessary packages
 ```
